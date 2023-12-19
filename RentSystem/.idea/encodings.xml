@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/renting/bll/AdminManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/bll/HistoryManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/bll/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/bll/MessageManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/bll/Register.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/bll/RevisePwd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/bll/RoomManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/bll/TenantManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/bll/entity/Admin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/bll/entity/History.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/bll/entity/Room.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/bll/entity/Tenant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/bll/people/TenantAdd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/dal/DBConnecter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/gui/MainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/gui/MessageFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/gui/RegisterFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/gui/RentingFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/gui/RevisePwdFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/gui/SaddMoneyFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/gui/usergui/ShowIdAndPassword.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/gui/usergui/UserMainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/gui/usergui/UserRentingRoom.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/gui/usergui/confirmUser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/historygui/ShowHistory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/peoplegui/QueryPeopleAsCard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/peoplegui/QueryPeopleAsId.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/peoplegui/QueryPeopleAsRoomId.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/peoplegui/ShowPeopleMessageFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/roomgui/AddMoneyFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/roomgui/QueryRoomFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/roomgui/RentingRoomFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/roomgui/RoomAddFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/roomgui/ShowRoomMessageFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/renting/roomgui/settlementMoneyFrame.java" charset="GBK" />
+  </component>
+</project>
